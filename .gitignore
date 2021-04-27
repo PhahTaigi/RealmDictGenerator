@@ -52,5 +52,5 @@ DerivedData/
 Pods
 
 ## ChhoeTaigi Dicts
-ImeDictSrc/
 *.realm
+RealmDictGenerator/ImeDictSrc
