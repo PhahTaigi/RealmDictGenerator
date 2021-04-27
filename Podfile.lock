@@ -1,0 +1,26 @@
+PODS:
+  - Realm (10.5.0):
+    - Realm/Headers (= 10.5.0)
+  - Realm/Headers (10.5.0)
+  - RealmSwift (10.5.0):
+    - Realm (= 10.5.0)
+  - SwiftCSV (0.6.0)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwiftCSV
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SwiftCSV
+
+SPEC CHECKSUMS:
+  Realm: e1c22c3d83b229afb70ebc10e1771c91e9542d12
+  RealmSwift: 6fc078d9d3fd7e58c71bfdbb694e252462f112a5
+  SwiftCSV: ebc63cacc3820042537288c0cc647946261f7c2c
+
+PODFILE CHECKSUM: 0da26436a63d484fda03ac10601f60e7cec68577
+
+COCOAPODS: 1.10.0
